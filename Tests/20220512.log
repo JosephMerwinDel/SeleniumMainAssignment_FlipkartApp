@@ -1,0 +1,109 @@
+2022-05-12 22:33:36,830: INFO: 
+
+2022-05-12 22:33:36,830: INFO: ====== WebDriver manager ======
+2022-05-12 22:33:37,234: INFO: Current google-chrome version is 101.0.4951
+2022-05-12 22:33:37,234: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-12 22:33:37,467: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-12 22:33:41,069: INFO: Navigating to https://www.flipkart.com/
+2022-05-12 22:33:51,046: INFO: https://www.flipkart.com/ opened
+2022-05-12 22:33:51,088: INFO: Driver quitting
+2022-05-12 22:33:51,160: INFO: Driver quitted
+2022-05-12 22:38:12,134: INFO: 
+
+2022-05-12 22:38:12,135: INFO: ====== WebDriver manager ======
+2022-05-12 22:38:12,300: INFO: Current google-chrome version is 101.0.4951
+2022-05-12 22:38:12,301: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-12 22:38:12,447: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-12 22:38:18,108: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-12 22:38:18,108: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-12 22:38:18,120: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-12 22:38:18,120: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-12 22:38:27,955: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-12 22:38:27,956: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-12 22:38:42,713: INFO: 
+
+2022-05-12 22:38:42,714: INFO: ====== WebDriver manager ======
+2022-05-12 22:38:42,861: INFO: Current google-chrome version is 101.0.4951
+2022-05-12 22:38:42,861: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-12 22:38:42,987: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-12 22:39:42,063: INFO: Driver quitting
+2022-05-12 22:39:42,144: INFO: Driver quitted
+2022-05-12 22:46:24,506: INFO: 
+
+2022-05-12 22:46:24,507: INFO: ====== WebDriver manager ======
+2022-05-12 22:46:24,697: INFO: Current google-chrome version is 101.0.4951
+2022-05-12 22:46:24,697: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-12 22:46:24,938: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-12 22:49:01,876: INFO: 
+
+2022-05-12 22:49:01,877: INFO: ====== WebDriver manager ======
+2022-05-12 22:49:02,046: INFO: Current google-chrome version is 101.0.4951
+2022-05-12 22:49:02,047: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-12 22:49:02,193: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-12 22:49:07,405: INFO: Driver quitting
+2022-05-12 22:49:07,479: INFO: Driver quitted
+2022-05-12 22:58:19,628: INFO: 
+
+2022-05-12 22:58:19,628: INFO: ====== WebDriver manager ======
+2022-05-12 22:58:19,798: INFO: Current google-chrome version is 101.0.4951
+2022-05-12 22:58:19,799: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-12 22:58:20,021: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-12 22:58:24,969: INFO: Driver quitting
+2022-05-12 22:58:25,044: INFO: Driver quitted
+2022-05-12 23:05:32,921: INFO: 
+
+2022-05-12 23:05:32,922: INFO: ====== WebDriver manager ======
+2022-05-12 23:05:33,086: INFO: Current google-chrome version is 101.0.4951
+2022-05-12 23:05:33,087: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-12 23:05:33,322: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-12 23:05:37,655: INFO: Driver quitting
+2022-05-12 23:05:37,737: INFO: Driver quitted
+2022-05-12 23:07:11,413: INFO: 
+
+2022-05-12 23:07:11,414: INFO: ====== WebDriver manager ======
+2022-05-12 23:07:11,614: INFO: Current google-chrome version is 101.0.4951
+2022-05-12 23:07:11,615: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-12 23:07:11,747: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-12 23:07:16,461: INFO: Driver quitting
+2022-05-12 23:07:16,537: INFO: Driver quitted
+2022-05-12 23:08:11,017: INFO: 
+
+2022-05-12 23:08:11,017: INFO: ====== WebDriver manager ======
+2022-05-12 23:08:11,180: INFO: Current google-chrome version is 101.0.4951
+2022-05-12 23:08:11,181: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-12 23:08:11,302: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-12 23:08:16,437: INFO: Driver quitting
+2022-05-12 23:08:16,514: INFO: Driver quitted
+2022-05-12 23:08:46,183: INFO: 
+
+2022-05-12 23:08:46,183: INFO: ====== WebDriver manager ======
+2022-05-12 23:08:46,362: INFO: Current google-chrome version is 101.0.4951
+2022-05-12 23:08:46,363: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-12 23:08:46,479: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-12 23:08:50,652: INFO: Driver quitting
+2022-05-12 23:08:50,724: INFO: Driver quitted
+2022-05-12 23:09:44,197: INFO: 
+
+2022-05-12 23:09:44,197: INFO: ====== WebDriver manager ======
+2022-05-12 23:09:44,368: INFO: Current google-chrome version is 101.0.4951
+2022-05-12 23:09:44,368: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-12 23:09:44,502: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-12 23:10:01,557: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-12 23:10:01,557: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-12 23:10:01,571: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-12 23:10:01,571: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-12 23:10:27,667: INFO: Driver quitting
+2022-05-12 23:10:27,669: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10bcb0d30>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a88b73a413ac8efb86863bd21a1e0430
+2022-05-12 23:10:27,670: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10bf3b7f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a88b73a413ac8efb86863bd21a1e0430
+2022-05-12 23:10:27,671: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10bf3ba30>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a88b73a413ac8efb86863bd21a1e0430
+2022-05-12 23:10:27,673: INFO: Driver quitted
+2022-05-12 23:11:22,671: INFO: 
+
+2022-05-12 23:11:22,671: INFO: ====== WebDriver manager ======
+2022-05-12 23:11:22,852: INFO: Current google-chrome version is 101.0.4951
+2022-05-12 23:11:22,853: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-12 23:11:22,999: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-12 23:11:27,473: INFO: Navigating to https://www.flipkart.com/
+2022-05-12 23:11:37,111: INFO: https://www.flipkart.com/ opened
+2022-05-12 23:11:37,147: INFO: Driver quitting
+2022-05-12 23:11:37,232: INFO: Driver quitted

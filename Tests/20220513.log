@@ -1,0 +1,1489 @@
+2022-05-13 00:04:39,054: INFO: 
+
+2022-05-13 00:04:39,054: INFO: ====== WebDriver manager ======
+2022-05-13 00:04:39,234: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 00:04:39,234: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 00:04:39,488: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/101.0.4951.41/chromedriver_mac64.zip
+2022-05-13 00:04:41,830: INFO: Driver has been saved in cache [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41]
+2022-05-13 00:04:45,717: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 00:04:54,849: INFO: https://www.flipkart.com/ opened
+2022-05-13 00:04:54,849: INFO: Searching for element by ('xpath', "//input[@class='_2IX_2- VJZDxU']") None
+2022-05-13 00:04:54,852: INFO: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+0   chromedriver                        0x00000001052992c9 chromedriver + 5120713
+1   chromedriver                        0x0000000105227e33 chromedriver + 4656691
+2   chromedriver                        0x0000000104e17158 chromedriver + 393560
+3   chromedriver                        0x0000000104e4b9b4 chromedriver + 608692
+4   chromedriver                        0x0000000104e4c161 chromedriver + 610657
+5   chromedriver                        0x0000000104e7e244 chromedriver + 815684
+6   chromedriver                        0x0000000104e694ad chromedriver + 730285
+7   chromedriver                        0x0000000104e7bf41 chromedriver + 806721
+8   chromedriver                        0x0000000104e69373 chromedriver + 729971
+9   chromedriver                        0x0000000104e3f609 chromedriver + 558601
+10  chromedriver                        0x0000000104e40635 chromedriver + 562741
+11  chromedriver                        0x000000010526bb1d chromedriver + 4934429
+12  chromedriver                        0x0000000105270295 chromedriver + 4952725
+13  chromedriver                        0x00000001052753cf chromedriver + 4973519
+14  chromedriver                        0x0000000105270cba chromedriver + 4955322
+15  chromedriver                        0x000000010524b37c chromedriver + 4801404
+16  chromedriver                        0x000000010528ac68 chromedriver + 5061736
+17  chromedriver                        0x000000010528adef chromedriver + 5062127
+18  chromedriver                        0x00000001052a05e5 chromedriver + 5150181
+19  libsystem_pthread.dylib             0x00007ff815fa54e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff815fa0f6b thread_start + 15
+
+2022-05-13 00:04:54,929: INFO: Driver quitting
+2022-05-13 00:04:55,009: INFO: Driver quitted
+2022-05-13 00:06:04,642: INFO: 
+
+2022-05-13 00:06:04,643: INFO: ====== WebDriver manager ======
+2022-05-13 00:06:04,813: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 00:06:04,814: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 00:06:04,949: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 00:06:16,314: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 00:06:28,057: INFO: https://www.flipkart.com/ opened
+2022-05-13 00:06:58,057: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 00:06:58,058: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 00:06:58,072: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 00:06:58,072: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 00:07:01,106: INFO: Searching for element by ('xpath', "//input[@class='_2IX_2- VJZDxU']") None
+2022-05-13 00:07:01,124: INFO: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+0   chromedriver                        0x0000000102fb02c9 chromedriver + 5120713
+1   chromedriver                        0x0000000102f3ee33 chromedriver + 4656691
+2   chromedriver                        0x0000000102b2e158 chromedriver + 393560
+3   chromedriver                        0x0000000102b629b4 chromedriver + 608692
+4   chromedriver                        0x0000000102b63161 chromedriver + 610657
+5   chromedriver                        0x0000000102b95244 chromedriver + 815684
+6   chromedriver                        0x0000000102b804ad chromedriver + 730285
+7   chromedriver                        0x0000000102b92f41 chromedriver + 806721
+8   chromedriver                        0x0000000102b80373 chromedriver + 729971
+9   chromedriver                        0x0000000102b56609 chromedriver + 558601
+10  chromedriver                        0x0000000102b57635 chromedriver + 562741
+11  chromedriver                        0x0000000102f82b1d chromedriver + 4934429
+12  chromedriver                        0x0000000102f87295 chromedriver + 4952725
+13  chromedriver                        0x0000000102f8c3cf chromedriver + 4973519
+14  chromedriver                        0x0000000102f87cba chromedriver + 4955322
+15  chromedriver                        0x0000000102f6237c chromedriver + 4801404
+16  chromedriver                        0x0000000102fa1c68 chromedriver + 5061736
+17  chromedriver                        0x0000000102fa1def chromedriver + 5062127
+18  chromedriver                        0x0000000102fb75e5 chromedriver + 5150181
+19  libsystem_pthread.dylib             0x00007ff815fa54e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff815fa0f6b thread_start + 15
+
+2022-05-13 00:07:08,955: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 00:07:08,957: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 00:07:08,970: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 00:07:08,971: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 00:07:16,205: INFO: Searching for element by ('xpath', "//input[@class='_2IX_2- VJZDxU']") None
+2022-05-13 00:07:16,213: INFO: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+0   chromedriver                        0x0000000102fb02c9 chromedriver + 5120713
+1   chromedriver                        0x0000000102f3ee33 chromedriver + 4656691
+2   chromedriver                        0x0000000102b2e158 chromedriver + 393560
+3   chromedriver                        0x0000000102b629b4 chromedriver + 608692
+4   chromedriver                        0x0000000102b63161 chromedriver + 610657
+5   chromedriver                        0x0000000102b95244 chromedriver + 815684
+6   chromedriver                        0x0000000102b804ad chromedriver + 730285
+7   chromedriver                        0x0000000102b92f41 chromedriver + 806721
+8   chromedriver                        0x0000000102b80373 chromedriver + 729971
+9   chromedriver                        0x0000000102b56609 chromedriver + 558601
+10  chromedriver                        0x0000000102b57635 chromedriver + 562741
+11  chromedriver                        0x0000000102f82b1d chromedriver + 4934429
+12  chromedriver                        0x0000000102f87295 chromedriver + 4952725
+13  chromedriver                        0x0000000102f8c3cf chromedriver + 4973519
+14  chromedriver                        0x0000000102f87cba chromedriver + 4955322
+15  chromedriver                        0x0000000102f6237c chromedriver + 4801404
+16  chromedriver                        0x0000000102fa1c68 chromedriver + 5061736
+17  chromedriver                        0x0000000102fa1def chromedriver + 5062127
+18  chromedriver                        0x0000000102fb75e5 chromedriver + 5150181
+19  libsystem_pthread.dylib             0x00007ff815fa54e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff815fa0f6b thread_start + 15
+
+2022-05-13 00:07:49,995: INFO: 
+
+2022-05-13 00:07:49,995: INFO: ====== WebDriver manager ======
+2022-05-13 00:07:50,144: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 00:07:50,145: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 00:07:50,288: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 00:07:54,811: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 00:08:03,605: INFO: https://www.flipkart.com/ opened
+2022-05-13 00:08:03,606: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 00:08:03,761: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 00:08:03,761: INFO: 'WebElement' object has no attribute 'sendkeys'
+2022-05-13 00:08:03,807: INFO: Driver quitting
+2022-05-13 00:08:03,887: INFO: Driver quitted
+2022-05-13 00:09:05,423: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 00:09:05,432: INFO: Message: no such window: window was already closed
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+0   chromedriver                        0x0000000102fb02c9 chromedriver + 5120713
+1   chromedriver                        0x0000000102f3ee33 chromedriver + 4656691
+2   chromedriver                        0x0000000102b2e158 chromedriver + 393560
+3   chromedriver                        0x0000000102b1d3a7 chromedriver + 324519
+4   chromedriver                        0x0000000102b1e822 chromedriver + 329762
+5   chromedriver                        0x0000000102b1730c chromedriver + 299788
+6   chromedriver                        0x0000000102b2f5b2 chromedriver + 398770
+7   chromedriver                        0x0000000102b925fb chromedriver + 804347
+8   chromedriver                        0x0000000102b80373 chromedriver + 729971
+9   chromedriver                        0x0000000102b56609 chromedriver + 558601
+10  chromedriver                        0x0000000102b57635 chromedriver + 562741
+11  chromedriver                        0x0000000102f82b1d chromedriver + 4934429
+12  chromedriver                        0x0000000102f87295 chromedriver + 4952725
+13  chromedriver                        0x0000000102f8c3cf chromedriver + 4973519
+14  chromedriver                        0x0000000102f87cba chromedriver + 4955322
+15  chromedriver                        0x0000000102f6237c chromedriver + 4801404
+16  chromedriver                        0x0000000102fa1c68 chromedriver + 5061736
+17  chromedriver                        0x0000000102fa1def chromedriver + 5062127
+18  chromedriver                        0x0000000102fb75e5 chromedriver + 5150181
+19  libsystem_pthread.dylib             0x00007ff815fa54e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff815fa0f6b thread_start + 15
+
+2022-05-13 00:09:07,572: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 00:09:07,580: INFO: Message: no such window: window was already closed
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+0   chromedriver                        0x0000000102fb02c9 chromedriver + 5120713
+1   chromedriver                        0x0000000102f3ee33 chromedriver + 4656691
+2   chromedriver                        0x0000000102b2e158 chromedriver + 393560
+3   chromedriver                        0x0000000102b1d3a7 chromedriver + 324519
+4   chromedriver                        0x0000000102b1e822 chromedriver + 329762
+5   chromedriver                        0x0000000102b1730c chromedriver + 299788
+6   chromedriver                        0x0000000102b2f5b2 chromedriver + 398770
+7   chromedriver                        0x0000000102b925fb chromedriver + 804347
+8   chromedriver                        0x0000000102b80373 chromedriver + 729971
+9   chromedriver                        0x0000000102b56609 chromedriver + 558601
+10  chromedriver                        0x0000000102b57635 chromedriver + 562741
+11  chromedriver                        0x0000000102f82b1d chromedriver + 4934429
+12  chromedriver                        0x0000000102f87295 chromedriver + 4952725
+13  chromedriver                        0x0000000102f8c3cf chromedriver + 4973519
+14  chromedriver                        0x0000000102f87cba chromedriver + 4955322
+15  chromedriver                        0x0000000102f6237c chromedriver + 4801404
+16  chromedriver                        0x0000000102fa1c68 chromedriver + 5061736
+17  chromedriver                        0x0000000102fa1def chromedriver + 5062127
+18  chromedriver                        0x0000000102fb75e5 chromedriver + 5150181
+19  libsystem_pthread.dylib             0x00007ff815fa54e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff815fa0f6b thread_start + 15
+
+2022-05-13 00:09:15,270: INFO: 
+
+2022-05-13 00:09:15,271: INFO: ====== WebDriver manager ======
+2022-05-13 00:09:15,411: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 00:09:15,411: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 00:09:15,583: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 00:09:20,689: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 00:09:30,308: INFO: https://www.flipkart.com/ opened
+2022-05-13 00:09:30,309: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 00:09:30,455: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 00:09:30,483: INFO: None value changed
+2022-05-13 00:09:31,897: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 00:09:31,944: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 00:09:31,951: INFO: None value changed
+2022-05-13 00:09:32,236: INFO: Searching for element by ('xpath', "//input[@class='_2IX_2- VJZDxU']") None
+2022-05-13 00:09:32,239: INFO: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+0   chromedriver                        0x0000000104d882c9 chromedriver + 5120713
+1   chromedriver                        0x0000000104d16e33 chromedriver + 4656691
+2   chromedriver                        0x0000000104906158 chromedriver + 393560
+3   chromedriver                        0x000000010493a9b4 chromedriver + 608692
+4   chromedriver                        0x000000010493b161 chromedriver + 610657
+5   chromedriver                        0x000000010496d244 chromedriver + 815684
+6   chromedriver                        0x00000001049584ad chromedriver + 730285
+7   chromedriver                        0x000000010496af41 chromedriver + 806721
+8   chromedriver                        0x0000000104958373 chromedriver + 729971
+9   chromedriver                        0x000000010492e609 chromedriver + 558601
+10  chromedriver                        0x000000010492f635 chromedriver + 562741
+11  chromedriver                        0x0000000104d5ab1d chromedriver + 4934429
+12  chromedriver                        0x0000000104d5f295 chromedriver + 4952725
+13  chromedriver                        0x0000000104d643cf chromedriver + 4973519
+14  chromedriver                        0x0000000104d5fcba chromedriver + 4955322
+15  chromedriver                        0x0000000104d3a37c chromedriver + 4801404
+16  chromedriver                        0x0000000104d79c68 chromedriver + 5061736
+17  chromedriver                        0x0000000104d79def chromedriver + 5062127
+18  chromedriver                        0x0000000104d8f5e5 chromedriver + 5150181
+19  libsystem_pthread.dylib             0x00007ff815fa54e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff815fa0f6b thread_start + 15
+
+2022-05-13 00:09:32,314: INFO: Driver quitting
+2022-05-13 00:09:32,410: INFO: Driver quitted
+2022-05-13 00:10:49,027: INFO: Driver quitting
+2022-05-13 00:10:49,029: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e534eb0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3bcb02a556dbb297921fc00a94e4c7a9
+2022-05-13 00:10:49,030: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e97a3e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3bcb02a556dbb297921fc00a94e4c7a9
+2022-05-13 00:10:49,031: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e979fc0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3bcb02a556dbb297921fc00a94e4c7a9
+2022-05-13 00:10:49,033: INFO: Driver quitted
+2022-05-13 00:10:49,902: INFO: 
+
+2022-05-13 00:10:49,903: INFO: ====== WebDriver manager ======
+2022-05-13 00:10:50,058: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 00:10:50,059: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 00:10:50,186: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 00:10:54,791: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 00:11:04,841: INFO: https://www.flipkart.com/ opened
+2022-05-13 00:11:04,841: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 00:11:05,015: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 00:11:05,049: INFO: None value changed
+2022-05-13 00:11:06,871: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 00:11:06,911: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 00:11:06,919: INFO: None value changed
+2022-05-13 00:11:07,084: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']
+2022-05-13 00:11:07,121: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL'] found
+2022-05-13 00:11:07,149: INFO: Clicking on _2KpZ6l _2HKlqd _3AWRsL
+2022-05-13 00:11:11,424: INFO: Driver quitting
+2022-05-13 00:11:11,513: INFO: Driver quitted
+2022-05-13 10:29:32,664: INFO: 
+
+2022-05-13 10:29:32,665: INFO: ====== WebDriver manager ======
+2022-05-13 10:29:32,835: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 10:29:32,836: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 10:29:33,703: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 10:29:38,928: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 10:29:47,703: INFO: https://www.flipkart.com/ opened
+2022-05-13 10:29:47,704: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 10:29:48,946: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 10:29:48,981: INFO: None value changed
+2022-05-13 10:29:49,558: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 10:29:49,848: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 10:29:49,857: INFO: None value changed
+2022-05-13 10:29:50,018: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']
+2022-05-13 10:29:50,053: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL'] found
+2022-05-13 10:29:50,086: INFO: Clicking on _2KpZ6l _2HKlqd _3AWRsL
+2022-05-13 10:29:53,807: INFO: Driver quitting
+2022-05-13 10:29:53,897: INFO: Driver quitted
+2022-05-13 10:30:24,288: INFO: 
+
+2022-05-13 10:30:24,288: INFO: ====== WebDriver manager ======
+2022-05-13 10:30:24,451: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 10:30:24,451: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 10:30:24,607: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 10:30:27,825: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 10:30:36,089: INFO: https://www.flipkart.com/ opened
+2022-05-13 10:30:36,090: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 10:30:36,238: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 10:30:36,266: INFO: None value changed
+2022-05-13 10:30:37,799: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 10:30:37,991: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 10:30:38,006: INFO: None value changed
+2022-05-13 10:30:38,206: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']
+2022-05-13 10:30:38,247: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL'] found
+2022-05-13 10:30:38,327: INFO: Clicking on _2KpZ6l _2HKlqd _3AWRsL
+2022-05-13 10:30:42,241: INFO: Driver quitting
+2022-05-13 10:30:42,329: INFO: Driver quitted
+2022-05-13 10:32:42,755: INFO: 
+
+2022-05-13 10:32:42,755: INFO: ====== WebDriver manager ======
+2022-05-13 10:32:42,927: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 10:32:42,927: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 10:32:43,214: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 10:32:48,087: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 10:32:56,089: INFO: https://www.flipkart.com/ opened
+2022-05-13 10:33:08,755: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 10:33:08,915: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 10:33:08,950: INFO: None value changed
+2022-05-13 10:33:10,242: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 10:33:10,263: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 10:33:10,290: INFO: None value changed
+2022-05-13 10:33:23,589: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']
+2022-05-13 10:33:23,635: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL'] found
+2022-05-13 10:33:25,397: INFO: Clicking on _2KpZ6l _2HKlqd _3AWRsL
+2022-05-13 10:35:57,415: INFO: Driver quitting
+2022-05-13 10:35:57,417: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x110998df0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/266d102d1713ee1ce1f5b65514b503ae
+2022-05-13 10:35:57,418: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111076a70>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/266d102d1713ee1ce1f5b65514b503ae
+2022-05-13 10:35:57,418: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111076d40>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/266d102d1713ee1ce1f5b65514b503ae
+2022-05-13 10:35:57,421: INFO: Driver quitted
+2022-05-13 10:36:28,604: INFO: 
+
+2022-05-13 10:36:28,604: INFO: ====== WebDriver manager ======
+2022-05-13 10:36:28,799: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 10:36:28,799: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 10:36:29,005: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 10:36:33,607: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 10:36:43,894: INFO: https://www.flipkart.com/ opened
+2022-05-13 10:36:43,894: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 10:36:45,155: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 10:36:45,222: INFO: None value changed
+2022-05-13 10:36:45,624: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 10:36:45,689: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 10:36:45,698: INFO: None value changed
+2022-05-13 10:36:46,210: INFO: Driver quitting
+2022-05-13 10:36:46,290: INFO: Driver quitted
+2022-05-13 10:38:04,369: INFO: 
+
+2022-05-13 10:38:04,370: INFO: ====== WebDriver manager ======
+2022-05-13 10:38:04,548: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 10:38:04,549: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 10:38:04,674: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 10:38:09,908: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 10:38:17,976: INFO: https://www.flipkart.com/ opened
+2022-05-13 10:38:17,977: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 10:38:18,116: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 10:38:18,145: INFO: None value changed
+2022-05-13 10:38:19,700: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 10:38:19,843: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 10:38:19,862: INFO: None value changed
+2022-05-13 10:38:20,283: INFO: Driver quitting
+2022-05-13 10:38:20,365: INFO: Driver quitted
+2022-05-13 10:39:25,114: INFO: 
+
+2022-05-13 10:39:25,114: INFO: ====== WebDriver manager ======
+2022-05-13 10:39:25,291: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 10:39:25,292: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 10:39:25,512: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 10:39:30,204: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 10:39:38,760: INFO: https://www.flipkart.com/ opened
+2022-05-13 10:39:38,761: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 10:39:38,916: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 10:39:39,055: INFO: None value changed
+2022-05-13 10:39:40,485: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 10:39:40,618: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 10:39:40,632: INFO: None value changed
+2022-05-13 10:39:40,867: INFO: Driver quitting
+2022-05-13 10:39:40,942: INFO: Driver quitted
+2022-05-13 10:40:18,675: INFO: 
+
+2022-05-13 10:40:18,675: INFO: ====== WebDriver manager ======
+2022-05-13 10:40:18,872: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 10:40:18,872: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 10:40:19,007: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 10:40:22,710: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 10:40:31,406: INFO: https://www.flipkart.com/ opened
+2022-05-13 10:40:31,407: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 10:40:31,542: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 10:40:31,570: INFO: None value changed
+2022-05-13 10:40:33,264: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 10:40:33,498: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 10:40:33,516: INFO: None value changed
+2022-05-13 10:40:33,767: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']
+2022-05-13 10:40:33,835: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL'] found
+2022-05-13 10:40:33,872: INFO: Driver quitting
+2022-05-13 10:40:33,954: INFO: Driver quitted
+2022-05-13 10:41:55,832: INFO: 
+
+2022-05-13 10:41:55,833: INFO: ====== WebDriver manager ======
+2022-05-13 10:41:56,007: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 10:41:56,007: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 10:41:56,126: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 10:42:00,817: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 10:42:04,706: INFO: https://www.flipkart.com/ opened
+2022-05-13 10:42:04,706: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 10:42:15,254: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='_2IX_2- VJZDxU']"}
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+0   chromedriver                        0x00000001033b72c9 chromedriver + 5120713
+1   chromedriver                        0x0000000103345e33 chromedriver + 4656691
+2   chromedriver                        0x0000000102f35158 chromedriver + 393560
+3   chromedriver                        0x0000000102f69edd chromedriver + 610013
+4   chromedriver                        0x0000000102f6a161 chromedriver + 610657
+5   chromedriver                        0x0000000102f9c244 chromedriver + 815684
+6   chromedriver                        0x0000000102f874ad chromedriver + 730285
+7   chromedriver                        0x0000000102f99f41 chromedriver + 806721
+8   chromedriver                        0x0000000102f87373 chromedriver + 729971
+9   chromedriver                        0x0000000102f5d609 chromedriver + 558601
+10  chromedriver                        0x0000000102f5e635 chromedriver + 562741
+11  chromedriver                        0x0000000103389b1d chromedriver + 4934429
+12  chromedriver                        0x000000010338e295 chromedriver + 4952725
+13  chromedriver                        0x00000001033933cf chromedriver + 4973519
+14  chromedriver                        0x000000010338ecba chromedriver + 4955322
+15  chromedriver                        0x000000010336937c chromedriver + 4801404
+16  chromedriver                        0x00000001033a8c68 chromedriver + 5061736
+17  chromedriver                        0x00000001033a8def chromedriver + 5062127
+18  chromedriver                        0x00000001033be5e5 chromedriver + 5150181
+19  libsystem_pthread.dylib             0x00007ff815fa54e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff815fa0f6b thread_start + 15
+
+2022-05-13 10:42:15,334: INFO: Driver quitting
+2022-05-13 10:42:15,441: INFO: Driver quitted
+2022-05-13 10:42:44,368: INFO: 
+
+2022-05-13 10:42:44,368: INFO: ====== WebDriver manager ======
+2022-05-13 10:42:44,569: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 10:42:44,570: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 10:42:45,944: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 10:42:49,167: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 10:42:58,974: INFO: https://www.flipkart.com/ opened
+2022-05-13 10:42:58,975: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 10:42:59,155: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 10:42:59,186: INFO: None value changed
+2022-05-13 10:43:00,563: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 10:43:01,012: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 10:43:01,030: INFO: None value changed
+2022-05-13 10:43:01,358: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']
+2022-05-13 10:43:01,397: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL'] found
+2022-05-13 10:43:01,475: INFO: Clicking on _2KpZ6l _2HKlqd _3AWRsL
+2022-05-13 10:43:05,925: INFO: Driver quitting
+2022-05-13 10:43:06,012: INFO: Driver quitted
+2022-05-13 10:47:23,911: INFO: 
+
+2022-05-13 10:47:23,912: INFO: ====== WebDriver manager ======
+2022-05-13 10:47:24,078: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 10:47:24,079: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 10:47:24,310: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 10:47:28,689: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 10:47:36,231: INFO: https://www.flipkart.com/ opened
+2022-05-13 10:47:36,233: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 10:47:36,362: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 10:47:36,390: INFO: None value changed
+2022-05-13 10:47:36,700: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 10:47:36,745: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 10:47:36,753: INFO: None value changed
+2022-05-13 10:47:36,924: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']
+2022-05-13 10:47:36,959: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL'] found
+2022-05-13 10:47:37,734: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 10:47:37,734: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 10:47:37,748: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 10:47:37,748: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 10:47:49,855: INFO: Clicking on _2KpZ6l _2HKlqd _3AWRsL
+2022-05-13 10:47:50,287: INFO: _2KpZ6l _2HKlqd _3AWRsL clicked
+2022-05-13 10:48:15,516: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 10:48:15,518: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 10:48:15,531: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 10:48:15,531: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 10:48:34,470: INFO: Searching for element by xpath //div[text()='My Account']
+2022-05-13 10:48:34,566: INFO: Element by xpath //div[text()='My Account'] found
+2022-05-13 10:48:34,592: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 10:48:34,593: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 10:48:34,607: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 10:48:34,608: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 10:48:38,058: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 10:48:38,059: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 10:48:38,073: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 10:48:38,073: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 10:51:00,721: INFO: Searching for element by xpath //div[normalize-space()='Logout']
+2022-05-13 10:51:08,655: INFO: Element by xpath //div[normalize-space()='Logout'] found
+2022-05-13 10:51:08,677: INFO: Clicking on _3vhnxf
+2022-05-13 10:58:49,946: INFO: 
+
+2022-05-13 10:58:49,946: INFO: ====== WebDriver manager ======
+2022-05-13 10:58:50,102: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 10:58:50,103: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 10:58:50,322: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 10:58:53,700: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 10:59:03,383: INFO: https://www.flipkart.com/ opened
+2022-05-13 10:59:03,384: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 10:59:03,629: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 10:59:03,662: INFO: None value changed
+2022-05-13 10:59:05,301: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 10:59:05,381: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 10:59:05,389: INFO: None value changed
+2022-05-13 10:59:05,568: INFO: Searching for element by ('xpath', "//button[@class='_2KpZ6l _2HKlqd _3AWRsL']") None
+2022-05-13 10:59:05,579: INFO: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+0   chromedriver                        0x00000001006312c9 chromedriver + 5120713
+1   chromedriver                        0x00000001005bfe33 chromedriver + 4656691
+2   chromedriver                        0x00000001001af158 chromedriver + 393560
+3   chromedriver                        0x00000001001e39b4 chromedriver + 608692
+4   chromedriver                        0x00000001001e4161 chromedriver + 610657
+5   chromedriver                        0x0000000100216244 chromedriver + 815684
+6   chromedriver                        0x00000001002014ad chromedriver + 730285
+7   chromedriver                        0x0000000100213f41 chromedriver + 806721
+8   chromedriver                        0x0000000100201373 chromedriver + 729971
+9   chromedriver                        0x00000001001d7609 chromedriver + 558601
+10  chromedriver                        0x00000001001d8635 chromedriver + 562741
+11  chromedriver                        0x0000000100603b1d chromedriver + 4934429
+12  chromedriver                        0x0000000100608295 chromedriver + 4952725
+13  chromedriver                        0x000000010060d3cf chromedriver + 4973519
+14  chromedriver                        0x0000000100608cba chromedriver + 4955322
+15  chromedriver                        0x00000001005e337c chromedriver + 4801404
+16  chromedriver                        0x0000000100622c68 chromedriver + 5061736
+17  chromedriver                        0x0000000100622def chromedriver + 5062127
+18  chromedriver                        0x00000001006385e5 chromedriver + 5150181
+19  libsystem_pthread.dylib             0x00007ff815fa54e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff815fa0f6b thread_start + 15
+
+2022-05-13 10:59:05,674: INFO: Driver quitting
+2022-05-13 10:59:05,753: INFO: Driver quitted
+2022-05-13 10:59:43,635: INFO: Driver quitting
+2022-05-13 10:59:43,637: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x110558d90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3f39345cb0ded14c88f3fac5b080f32e
+2022-05-13 10:59:43,638: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1108839d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3f39345cb0ded14c88f3fac5b080f32e
+2022-05-13 10:59:43,638: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x110883ac0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3f39345cb0ded14c88f3fac5b080f32e
+2022-05-13 10:59:43,642: INFO: Driver quitted
+2022-05-13 10:59:44,448: INFO: 
+
+2022-05-13 10:59:44,448: INFO: ====== WebDriver manager ======
+2022-05-13 10:59:44,589: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 10:59:44,589: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 10:59:44,724: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 10:59:47,464: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 10:59:56,054: INFO: https://www.flipkart.com/ opened
+2022-05-13 10:59:56,054: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 10:59:56,212: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 10:59:56,245: INFO: None value changed
+2022-05-13 10:59:57,769: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 10:59:57,988: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 10:59:58,075: INFO: None value changed
+2022-05-13 10:59:58,297: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']
+2022-05-13 10:59:58,329: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL'] found
+2022-05-13 10:59:58,428: INFO: Clicking on _2KpZ6l _2HKlqd _3AWRsL
+2022-05-13 11:00:02,255: INFO: Driver quitting
+2022-05-13 11:00:02,340: INFO: Driver quitted
+2022-05-13 11:00:34,797: INFO: 
+
+2022-05-13 11:00:34,798: INFO: ====== WebDriver manager ======
+2022-05-13 11:00:34,960: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 11:00:34,960: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 11:00:35,108: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 11:00:39,747: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 11:00:48,788: INFO: https://www.flipkart.com/ opened
+2022-05-13 11:00:48,790: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 11:00:48,948: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 11:00:48,977: INFO: None value changed
+2022-05-13 11:00:50,611: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 11:00:50,704: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 11:00:50,721: INFO: None value changed
+2022-05-13 11:00:50,904: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']
+2022-05-13 11:00:50,938: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL'] found
+2022-05-13 11:00:50,988: INFO: Clicking on _2KpZ6l _2HKlqd _3AWRsL
+2022-05-13 11:00:55,632: INFO: Driver quitting
+2022-05-13 11:00:55,716: INFO: Driver quitted
+2022-05-13 11:01:27,717: INFO: 
+
+2022-05-13 11:01:27,717: INFO: ====== WebDriver manager ======
+2022-05-13 11:01:27,927: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 11:01:27,928: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 11:01:28,063: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 11:01:31,292: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 11:01:39,558: INFO: https://www.flipkart.com/ opened
+2022-05-13 11:01:39,560: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 11:01:39,719: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 11:01:39,747: INFO: None value changed
+2022-05-13 11:01:41,306: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 11:01:41,364: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 11:01:41,372: INFO: None value changed
+2022-05-13 11:01:41,771: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']
+2022-05-13 11:01:41,938: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL'] found
+2022-05-13 11:01:42,171: INFO: Clicking on _2KpZ6l _2HKlqd _3AWRsL
+2022-05-13 11:01:46,424: INFO: Driver quitting
+2022-05-13 11:01:46,507: INFO: Driver quitted
+2022-05-13 11:02:21,003: INFO: 
+
+2022-05-13 11:02:21,003: INFO: ====== WebDriver manager ======
+2022-05-13 11:02:21,177: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 11:02:21,178: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 11:02:21,342: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 11:02:26,670: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 11:02:34,767: INFO: https://www.flipkart.com/ opened
+2022-05-13 11:02:34,770: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 11:02:34,924: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 11:02:35,013: INFO: None value changed
+2022-05-13 11:02:36,546: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 11:02:36,609: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 11:02:36,636: INFO: None value changed
+2022-05-13 11:02:36,953: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']
+2022-05-13 11:02:36,993: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL'] found
+2022-05-13 11:02:37,324: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 11:02:37,324: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 11:02:37,350: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 11:02:37,350: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 11:02:47,934: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 11:02:47,934: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 11:02:47,947: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 11:02:47,948: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 11:02:50,940: INFO: Clicking on _2KpZ6l _2HKlqd _3AWRsL
+2022-05-13 11:02:55,099: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 11:02:55,100: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 11:02:55,113: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 11:02:55,113: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 11:03:01,287: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 11:03:01,288: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 11:03:01,300: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 11:03:01,301: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 11:04:15,105: INFO: Driver quitting
+2022-05-13 11:04:15,107: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1103fcdf0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e49e6a9be9adb6ce3013a875228d04fc
+2022-05-13 11:04:15,108: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1107fed10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e49e6a9be9adb6ce3013a875228d04fc
+2022-05-13 11:04:15,108: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1107fea40>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e49e6a9be9adb6ce3013a875228d04fc
+2022-05-13 11:04:15,110: INFO: Driver quitted
+2022-05-13 11:04:16,370: INFO: 
+
+2022-05-13 11:04:16,371: INFO: ====== WebDriver manager ======
+2022-05-13 11:04:16,634: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 11:04:16,635: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 11:04:16,780: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 11:04:21,406: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 11:04:30,912: INFO: https://www.flipkart.com/ opened
+2022-05-13 11:04:30,915: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 11:04:31,079: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 11:04:31,119: INFO: None value changed
+2022-05-13 11:04:32,708: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 11:04:32,908: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 11:04:33,004: INFO: None value changed
+2022-05-13 11:04:33,279: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']
+2022-05-13 11:04:33,348: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL'] found
+2022-05-13 11:04:34,184: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 11:04:34,184: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 11:04:34,196: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 11:04:34,196: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 11:04:42,186: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 11:04:42,187: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 11:04:42,198: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 11:04:42,198: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 11:06:44,295: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 11:06:44,298: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 11:06:44,310: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 11:06:44,311: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 11:07:21,151: INFO: Clicking on _2KpZ6l _2HKlqd _3AWRsL
+2022-05-13 11:07:21,555: INFO: _2KpZ6l _2HKlqd _3AWRsL clicked
+2022-05-13 11:07:21,629: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 11:07:21,630: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 11:07:21,642: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 11:07:21,642: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 11:07:21,702: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 11:07:21,702: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 11:07:21,702: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 11:07:21,702: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 11:07:21,715: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 11:07:21,715: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 11:07:21,716: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 11:07:21,716: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 11:07:36,311: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 11:07:36,311: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 11:07:36,337: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 11:07:36,338: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 11:07:36,536: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 11:07:36,537: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 11:07:36,537: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 11:07:36,537: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 11:07:36,551: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 11:07:36,552: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 11:07:36,552: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 11:07:36,552: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 11:07:40,712: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 11:07:40,712: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 11:07:40,725: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 11:07:40,725: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 11:07:40,764: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 11:07:40,764: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 11:07:40,764: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 11:07:40,764: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 11:07:40,778: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 11:07:40,778: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 11:07:40,778: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 11:07:40,778: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 11:07:45,648: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 11:07:45,649: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 11:07:45,662: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 11:07:45,662: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 11:07:51,402: INFO: Driver quitting
+2022-05-13 11:07:51,541: INFO: Driver quitted
+2022-05-13 11:12:20,379: INFO: 
+
+2022-05-13 11:12:20,380: INFO: ====== WebDriver manager ======
+2022-05-13 11:12:20,572: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 11:12:20,572: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 11:12:20,795: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 11:12:25,991: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 11:12:36,165: INFO: https://www.flipkart.com/ opened
+2022-05-13 11:12:36,166: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 11:12:36,365: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 11:12:36,399: INFO: None value changed
+2022-05-13 11:12:36,792: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 11:12:37,121: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 11:12:37,154: INFO: None value changed
+2022-05-13 11:12:37,281: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']
+2022-05-13 11:12:37,334: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL'] found
+2022-05-13 11:12:37,395: INFO: Clicking on _2KpZ6l _2HKlqd _3AWRsL
+2022-05-13 11:12:46,779: INFO: Driver quitting
+2022-05-13 11:12:46,873: INFO: Driver quitted
+2022-05-13 11:18:02,547: INFO: 
+
+2022-05-13 11:18:02,547: INFO: ====== WebDriver manager ======
+2022-05-13 11:18:02,740: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 11:18:02,740: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 11:18:02,920: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 11:18:07,837: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 11:18:17,324: INFO: https://www.flipkart.com/ opened
+2022-05-13 11:18:17,324: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 11:18:17,493: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 11:18:17,528: INFO: None value changed
+2022-05-13 11:18:18,054: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 11:18:19,099: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 11:18:19,387: INFO: None value changed
+2022-05-13 11:18:24,762: INFO: Driver quitting
+2022-05-13 11:18:24,845: INFO: Driver quitted
+2022-05-13 11:20:24,658: INFO: 
+
+2022-05-13 11:20:24,659: INFO: ====== WebDriver manager ======
+2022-05-13 11:20:24,837: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 11:20:24,838: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 11:20:25,061: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 11:20:30,288: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 11:20:39,588: INFO: https://www.flipkart.com/ opened
+2022-05-13 11:20:39,588: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 11:20:39,744: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 11:20:39,780: INFO: None value changed
+2022-05-13 11:20:41,387: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 11:20:41,659: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 11:20:41,667: INFO: None value changed
+2022-05-13 11:20:41,789: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']
+2022-05-13 11:20:41,833: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL'] found
+2022-05-13 11:20:41,869: INFO: Clicking on _2KpZ6l _2HKlqd _3AWRsL
+2022-05-13 11:20:45,458: INFO: Driver quitting
+2022-05-13 11:20:45,540: INFO: Driver quitted
+2022-05-13 11:25:49,292: INFO: 
+
+2022-05-13 11:25:49,292: INFO: ====== WebDriver manager ======
+2022-05-13 11:25:49,480: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 11:25:49,480: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 11:25:49,711: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 11:25:53,531: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 11:26:01,976: INFO: https://www.flipkart.com/ opened
+2022-05-13 11:26:01,976: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 11:26:02,146: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 11:26:02,175: INFO: None value changed
+2022-05-13 11:26:03,882: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 11:26:03,943: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 11:26:03,964: INFO: None value changed
+2022-05-13 11:26:04,263: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 11:26:04,326: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 11:26:04,371: INFO: Clicking on 
+2022-05-13 11:26:09,062: INFO: Driver quitting
+2022-05-13 11:26:09,154: INFO: Driver quitted
+2022-05-13 11:37:33,146: INFO: 
+
+2022-05-13 11:37:33,146: INFO: ====== WebDriver manager ======
+2022-05-13 11:37:33,317: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 11:37:33,317: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 11:37:33,659: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 11:37:38,452: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 11:37:47,625: INFO: https://www.flipkart.com/ opened
+2022-05-13 11:37:47,625: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 11:37:47,775: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 11:37:47,805: INFO: None value changed
+2022-05-13 11:37:49,341: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 11:37:49,523: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 11:37:49,542: INFO: None value changed
+2022-05-13 11:37:49,903: INFO: Driver quitting
+2022-05-13 11:37:49,980: INFO: Driver quitted
+2022-05-13 11:38:14,016: INFO: 
+
+2022-05-13 11:38:14,016: INFO: ====== WebDriver manager ======
+2022-05-13 11:38:14,173: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 11:38:14,173: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 11:38:14,301: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 11:38:17,469: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 11:38:25,828: INFO: https://www.flipkart.com/ opened
+2022-05-13 11:38:25,828: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 11:38:25,978: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 11:38:26,008: INFO: None value changed
+2022-05-13 11:38:26,460: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 11:38:27,670: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 11:38:27,679: INFO: None value changed
+2022-05-13 11:38:27,982: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 11:38:28,083: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 11:38:38,567: INFO: Driver quitting
+2022-05-13 11:38:38,664: INFO: Driver quitted
+2022-05-13 11:39:33,681: INFO: 
+
+2022-05-13 11:39:33,681: INFO: ====== WebDriver manager ======
+2022-05-13 11:39:33,871: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 11:39:33,871: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 11:39:34,002: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 11:39:38,814: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 11:39:47,372: INFO: https://www.flipkart.com/ opened
+2022-05-13 11:39:47,373: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 11:39:47,519: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 11:39:47,656: INFO: None value changed
+2022-05-13 11:39:49,133: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 11:39:49,254: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 11:39:49,269: INFO: None value changed
+2022-05-13 11:39:49,462: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 11:39:49,506: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 11:39:59,973: INFO: Driver quitting
+2022-05-13 11:40:00,056: INFO: Driver quitted
+2022-05-13 11:45:27,628: INFO: 
+
+2022-05-13 11:45:27,628: INFO: ====== WebDriver manager ======
+2022-05-13 11:45:27,795: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 11:45:27,796: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 11:45:28,020: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 11:45:32,966: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 11:45:42,627: INFO: https://www.flipkart.com/ opened
+2022-05-13 11:45:42,627: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 11:45:42,797: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 11:45:42,832: INFO: None value changed
+2022-05-13 11:45:44,518: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 11:45:44,591: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 11:45:44,609: INFO: None value changed
+2022-05-13 11:45:44,991: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 11:45:45,119: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 11:45:45,187: INFO: Clicking on 
+2022-05-13 11:45:49,515: INFO: Driver quitting
+2022-05-13 11:45:49,603: INFO: Driver quitted
+2022-05-13 11:47:08,238: INFO: 
+
+2022-05-13 11:47:08,239: INFO: ====== WebDriver manager ======
+2022-05-13 11:47:08,403: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 11:47:08,403: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 11:47:08,528: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 11:47:13,122: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 11:47:21,669: INFO: https://www.flipkart.com/ opened
+2022-05-13 11:47:21,669: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 11:47:21,819: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 11:47:21,844: INFO: None value changed
+2022-05-13 11:47:23,317: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 11:47:23,487: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 11:47:23,536: INFO: None value changed
+2022-05-13 11:47:23,708: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 11:47:23,766: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 11:47:23,816: INFO: Clicking on 
+2022-05-13 11:47:28,221: INFO: Searching for element by xpath //div[text()='My Account']
+2022-05-13 11:47:28,238: INFO: Element by xpath //div[text()='My Account'] found
+2022-05-13 11:47:28,566: INFO: Searching for element by xpath //div[normalize-space()='Logout']
+2022-05-13 11:47:28,598: INFO: Element by xpath //div[normalize-space()='Logout'] found
+2022-05-13 11:47:28,612: INFO: Clicking on _3vhnxf
+2022-05-13 11:47:29,116: INFO: Driver quitting
+2022-05-13 11:47:29,199: INFO: Driver quitted
+2022-05-13 11:50:31,846: INFO: 
+
+2022-05-13 11:50:31,847: INFO: ====== WebDriver manager ======
+2022-05-13 11:50:32,024: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 11:50:32,025: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 11:50:32,164: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 11:50:35,156: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 11:50:44,088: INFO: https://www.flipkart.com/ opened
+2022-05-13 11:50:44,089: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 11:50:44,241: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 11:50:44,349: INFO: None value changed
+2022-05-13 11:50:45,824: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 11:50:46,015: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 11:50:46,043: INFO: None value changed
+2022-05-13 11:50:46,700: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 11:50:46,760: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 11:50:46,802: INFO: Clicking on 
+2022-05-13 11:50:51,111: INFO: Driver quitting
+2022-05-13 11:50:51,194: INFO: Driver quitted
+2022-05-13 11:52:29,907: INFO: 
+
+2022-05-13 11:52:29,907: INFO: ====== WebDriver manager ======
+2022-05-13 11:52:30,094: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 11:52:30,094: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 11:52:30,384: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 11:52:36,474: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 11:53:12,152: INFO: https://www.flipkart.com/ opened
+2022-05-13 11:53:12,153: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 11:53:12,344: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 11:53:12,377: INFO: None value changed
+2022-05-13 11:53:12,785: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 11:53:12,796: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 11:53:12,808: INFO: None value changed
+2022-05-13 11:53:12,889: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 11:53:12,937: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 11:53:12,952: INFO: Clicking on 
+2022-05-13 11:53:15,907: INFO: Searching for element by xpath //div[text()='My Account']
+2022-05-13 11:53:15,934: INFO: Element by xpath //div[text()='My Account'] found
+2022-05-13 11:53:16,259: INFO: Searching for element by xpath //div[normalize-space()='Logout']
+2022-05-13 11:53:16,296: INFO: Element by xpath //div[normalize-space()='Logout'] found
+2022-05-13 11:53:16,309: INFO: Clicking on _3vhnxf
+2022-05-13 11:53:16,782: INFO: Driver quitting
+2022-05-13 11:53:16,858: INFO: Driver quitted
+2022-05-13 12:21:55,797: INFO: 
+
+2022-05-13 12:21:55,797: INFO: ====== WebDriver manager ======
+2022-05-13 12:21:55,977: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 12:21:55,978: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 12:21:56,445: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 12:22:00,920: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 12:22:10,377: INFO: https://www.flipkart.com/ opened
+2022-05-13 12:22:10,378: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 12:22:10,553: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 12:22:10,822: INFO: None value changed
+2022-05-13 12:22:12,496: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 12:22:12,703: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 12:22:12,716: INFO: None value changed
+2022-05-13 12:22:12,897: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 12:22:12,949: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 12:22:12,991: INFO: Clicking on 
+2022-05-13 12:22:16,431: INFO: Searching for element by xpath ///div[text() = 'Grocery']
+2022-05-13 12:22:16,483: INFO: Message: invalid selector: Unable to locate an element with the xpath expression ///div[text() = 'Grocery'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '///div[text() = 'Grocery']' is not a valid XPath expression.
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+0   chromedriver                        0x00000001048eb2c9 chromedriver + 5120713
+1   chromedriver                        0x0000000104879e33 chromedriver + 4656691
+2   chromedriver                        0x0000000104469158 chromedriver + 393560
+3   chromedriver                        0x000000010446c087 chromedriver + 405639
+4   chromedriver                        0x000000010446bf26 chromedriver + 405286
+5   chromedriver                        0x000000010446c1ec chromedriver + 405996
+6   chromedriver                        0x000000010449dcb5 chromedriver + 609461
+7   chromedriver                        0x000000010449e161 chromedriver + 610657
+8   chromedriver                        0x00000001044d0244 chromedriver + 815684
+9   chromedriver                        0x00000001044bb4ad chromedriver + 730285
+10  chromedriver                        0x00000001044cdf41 chromedriver + 806721
+11  chromedriver                        0x00000001044bb373 chromedriver + 729971
+12  chromedriver                        0x0000000104491609 chromedriver + 558601
+13  chromedriver                        0x0000000104492635 chromedriver + 562741
+14  chromedriver                        0x00000001048bdb1d chromedriver + 4934429
+15  chromedriver                        0x00000001048c2295 chromedriver + 4952725
+16  chromedriver                        0x00000001048c73cf chromedriver + 4973519
+17  chromedriver                        0x00000001048c2cba chromedriver + 4955322
+18  chromedriver                        0x000000010489d37c chromedriver + 4801404
+19  chromedriver                        0x00000001048dcc68 chromedriver + 5061736
+20  chromedriver                        0x00000001048dcdef chromedriver + 5062127
+21  chromedriver                        0x00000001048f25e5 chromedriver + 5150181
+22  libsystem_pthread.dylib             0x00007ff815fa54e1 _pthread_start + 125
+23  libsystem_pthread.dylib             0x00007ff815fa0f6b thread_start + 15
+
+2022-05-13 12:22:16,560: INFO: Driver quitting
+2022-05-13 12:22:16,662: INFO: Driver quitted
+2022-05-13 12:22:59,033: INFO: 
+
+2022-05-13 12:22:59,033: INFO: ====== WebDriver manager ======
+2022-05-13 12:22:59,194: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 12:22:59,194: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 12:22:59,352: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 12:23:04,123: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 12:23:14,632: INFO: https://www.flipkart.com/ opened
+2022-05-13 12:23:14,633: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 12:23:15,097: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 12:23:15,149: INFO: None value changed
+2022-05-13 12:23:15,667: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 12:23:15,770: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 12:23:15,781: INFO: None value changed
+2022-05-13 12:23:16,048: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 12:23:16,113: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 12:23:16,187: INFO: Clicking on 
+2022-05-13 12:23:20,349: INFO: Searching for element by xpath ///div[text() = 'Grocery']
+2022-05-13 12:23:20,445: INFO: Message: invalid selector: Unable to locate an element with the xpath expression ///div[text() = 'Grocery'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '///div[text() = 'Grocery']' is not a valid XPath expression.
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+0   chromedriver                        0x0000000102f302c9 chromedriver + 5120713
+1   chromedriver                        0x0000000102ebee33 chromedriver + 4656691
+2   chromedriver                        0x0000000102aae158 chromedriver + 393560
+3   chromedriver                        0x0000000102ab1087 chromedriver + 405639
+4   chromedriver                        0x0000000102ab0f26 chromedriver + 405286
+5   chromedriver                        0x0000000102ab11ec chromedriver + 405996
+6   chromedriver                        0x0000000102ae2cb5 chromedriver + 609461
+7   chromedriver                        0x0000000102ae3161 chromedriver + 610657
+8   chromedriver                        0x0000000102b15244 chromedriver + 815684
+9   chromedriver                        0x0000000102b004ad chromedriver + 730285
+10  chromedriver                        0x0000000102b12f41 chromedriver + 806721
+11  chromedriver                        0x0000000102b00373 chromedriver + 729971
+12  chromedriver                        0x0000000102ad6609 chromedriver + 558601
+13  chromedriver                        0x0000000102ad7635 chromedriver + 562741
+14  chromedriver                        0x0000000102f02b1d chromedriver + 4934429
+15  chromedriver                        0x0000000102f07295 chromedriver + 4952725
+16  chromedriver                        0x0000000102f0c3cf chromedriver + 4973519
+17  chromedriver                        0x0000000102f07cba chromedriver + 4955322
+18  chromedriver                        0x0000000102ee237c chromedriver + 4801404
+19  chromedriver                        0x0000000102f21c68 chromedriver + 5061736
+20  chromedriver                        0x0000000102f21def chromedriver + 5062127
+21  chromedriver                        0x0000000102f375e5 chromedriver + 5150181
+22  libsystem_pthread.dylib             0x00007ff815fa54e1 _pthread_start + 125
+23  libsystem_pthread.dylib             0x00007ff815fa0f6b thread_start + 15
+
+2022-05-13 12:23:20,523: INFO: Driver quitting
+2022-05-13 12:23:20,595: INFO: Driver quitted
+2022-05-13 12:24:59,155: INFO: 
+
+2022-05-13 12:24:59,155: INFO: ====== WebDriver manager ======
+2022-05-13 12:24:59,318: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 12:24:59,318: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 12:24:59,447: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 12:25:04,595: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 12:25:13,616: INFO: https://www.flipkart.com/ opened
+2022-05-13 12:25:13,617: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 12:25:13,777: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 12:25:14,713: INFO: None value changed
+2022-05-13 12:25:15,276: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 12:25:15,483: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 12:25:15,514: INFO: None value changed
+2022-05-13 12:25:16,119: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 12:25:16,216: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 12:25:16,235: INFO: Clicking on 
+2022-05-13 12:25:20,231: INFO: Searching for element by xpath //div[text() = 'Grocery']
+2022-05-13 12:25:20,246: INFO: Element by xpath //div[text() = 'Grocery'] found
+2022-05-13 12:25:20,258: INFO: Clicking on xtXmba
+2022-05-13 12:25:20,818: INFO: Driver quitting
+2022-05-13 12:25:20,894: INFO: Driver quitted
+2022-05-13 12:28:44,303: INFO: 
+
+2022-05-13 12:28:44,303: INFO: ====== WebDriver manager ======
+2022-05-13 12:28:44,490: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 12:28:44,490: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 12:28:44,803: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 12:28:48,116: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 12:28:57,407: INFO: https://www.flipkart.com/ opened
+2022-05-13 12:28:57,407: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 12:28:57,559: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 12:28:58,052: INFO: None value changed
+2022-05-13 12:28:59,066: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 12:28:59,180: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 12:28:59,189: INFO: None value changed
+2022-05-13 12:28:59,504: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 12:28:59,779: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 12:28:59,921: INFO: Clicking on 
+2022-05-13 12:29:03,926: INFO: Searching for element by ('xpath', "//div[text() = 'Grocery']") None
+2022-05-13 12:29:03,929: INFO: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+0   chromedriver                        0x00000001007232c9 chromedriver + 5120713
+1   chromedriver                        0x00000001006b1e33 chromedriver + 4656691
+2   chromedriver                        0x00000001002a1158 chromedriver + 393560
+3   chromedriver                        0x00000001002d59b4 chromedriver + 608692
+4   chromedriver                        0x00000001002d6161 chromedriver + 610657
+5   chromedriver                        0x0000000100308244 chromedriver + 815684
+6   chromedriver                        0x00000001002f34ad chromedriver + 730285
+7   chromedriver                        0x0000000100305f41 chromedriver + 806721
+8   chromedriver                        0x00000001002f3373 chromedriver + 729971
+9   chromedriver                        0x00000001002c9609 chromedriver + 558601
+10  chromedriver                        0x00000001002ca635 chromedriver + 562741
+11  chromedriver                        0x00000001006f5b1d chromedriver + 4934429
+12  chromedriver                        0x00000001006fa295 chromedriver + 4952725
+13  chromedriver                        0x00000001006ff3cf chromedriver + 4973519
+14  chromedriver                        0x00000001006facba chromedriver + 4955322
+15  chromedriver                        0x00000001006d537c chromedriver + 4801404
+16  chromedriver                        0x0000000100714c68 chromedriver + 5061736
+17  chromedriver                        0x0000000100714def chromedriver + 5062127
+18  chromedriver                        0x000000010072a5e5 chromedriver + 5150181
+19  libsystem_pthread.dylib             0x00007ff815fa54e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff815fa0f6b thread_start + 15
+
+2022-05-13 12:29:04,017: INFO: Driver quitting
+2022-05-13 12:29:04,097: INFO: Driver quitted
+2022-05-13 12:30:05,483: INFO: 
+
+2022-05-13 12:30:05,483: INFO: ====== WebDriver manager ======
+2022-05-13 12:30:05,645: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 12:30:05,646: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 12:30:05,834: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 12:30:10,534: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 12:30:19,579: INFO: https://www.flipkart.com/ opened
+2022-05-13 12:30:19,616: INFO: Driver quitting
+2022-05-13 12:30:19,693: INFO: Driver quitted
+2022-05-13 12:30:57,336: INFO: 
+
+2022-05-13 12:30:57,336: INFO: ====== WebDriver manager ======
+2022-05-13 12:30:57,494: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 12:30:57,495: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 12:30:57,617: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 12:31:00,974: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 12:31:11,146: INFO: https://www.flipkart.com/ opened
+2022-05-13 12:31:11,147: INFO: Searching for element by ('xpath', "//input[@class='_2IX_2- VJZDxU']") None
+2022-05-13 12:31:11,150: INFO: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+0   chromedriver                        0x000000010537a2c9 chromedriver + 5120713
+1   chromedriver                        0x0000000105308e33 chromedriver + 4656691
+2   chromedriver                        0x0000000104ef8158 chromedriver + 393560
+3   chromedriver                        0x0000000104f2c9b4 chromedriver + 608692
+4   chromedriver                        0x0000000104f2d161 chromedriver + 610657
+5   chromedriver                        0x0000000104f5f244 chromedriver + 815684
+6   chromedriver                        0x0000000104f4a4ad chromedriver + 730285
+7   chromedriver                        0x0000000104f5cf41 chromedriver + 806721
+8   chromedriver                        0x0000000104f4a373 chromedriver + 729971
+9   chromedriver                        0x0000000104f20609 chromedriver + 558601
+10  chromedriver                        0x0000000104f21635 chromedriver + 562741
+11  chromedriver                        0x000000010534cb1d chromedriver + 4934429
+12  chromedriver                        0x0000000105351295 chromedriver + 4952725
+13  chromedriver                        0x00000001053563cf chromedriver + 4973519
+14  chromedriver                        0x0000000105351cba chromedriver + 4955322
+15  chromedriver                        0x000000010532c37c chromedriver + 4801404
+16  chromedriver                        0x000000010536bc68 chromedriver + 5061736
+17  chromedriver                        0x000000010536bdef chromedriver + 5062127
+18  chromedriver                        0x00000001053815e5 chromedriver + 5150181
+19  libsystem_pthread.dylib             0x00007ff815fa54e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff815fa0f6b thread_start + 15
+
+2022-05-13 12:31:11,224: INFO: Driver quitting
+2022-05-13 12:31:11,299: INFO: Driver quitted
+2022-05-13 12:36:57,619: INFO: 
+
+2022-05-13 12:36:57,620: INFO: ====== WebDriver manager ======
+2022-05-13 12:36:57,787: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 12:36:57,788: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 12:36:59,017: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 12:37:04,195: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 12:37:13,739: INFO: https://www.flipkart.com/ opened
+2022-05-13 12:37:13,740: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 12:37:13,909: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 12:37:13,948: INFO: None value changed
+2022-05-13 12:37:15,521: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 12:37:15,845: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 12:37:15,868: INFO: None value changed
+2022-05-13 12:37:16,071: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 12:37:16,145: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 12:37:16,184: INFO: Clicking on 
+2022-05-13 12:37:19,522: INFO: Searching for element by xpath //div[text() = 'Grocery']
+2022-05-13 12:37:19,537: INFO: Element by xpath //div[text() = 'Grocery'] found
+2022-05-13 12:37:19,550: INFO: Clicking on xtXmba
+2022-05-13 12:37:19,633: INFO: xtXmba clicked
+2022-05-13 12:37:19,634: INFO: Searching for element by xpath //div[text()='Snacks & Beverages']
+2022-05-13 12:37:20,766: INFO: Element by xpath //div[text()='Snacks & Beverages'] found
+2022-05-13 12:37:22,348: INFO: Searching for element by xpath //a[@class ='_6WOcW9 _2-k99T']
+2022-05-13 12:37:22,370: INFO: Element by xpath //a[@class ='_6WOcW9 _2-k99T'] found
+2022-05-13 12:37:22,415: INFO: Clicking on Biscuits
+2022-05-13 12:37:23,130: INFO: Driver quitting
+2022-05-13 12:37:23,211: INFO: Driver quitted
+2022-05-13 12:38:23,163: INFO: 
+
+2022-05-13 12:38:23,164: INFO: ====== WebDriver manager ======
+2022-05-13 12:38:23,324: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 12:38:23,325: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 12:38:23,499: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 12:38:28,905: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 12:38:37,410: INFO: https://www.flipkart.com/ opened
+2022-05-13 12:38:37,411: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 12:38:37,658: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 12:38:37,698: INFO: None value changed
+2022-05-13 12:38:38,529: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 12:38:39,329: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 12:38:39,344: INFO: None value changed
+2022-05-13 12:38:39,537: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 12:38:39,597: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 12:38:39,662: INFO: Clicking on 
+2022-05-13 12:38:42,864: INFO: Searching for element by xpath //div[text() = 'Grocery']
+2022-05-13 12:38:42,877: INFO: Element by xpath //div[text() = 'Grocery'] found
+2022-05-13 12:38:42,889: INFO: Clicking on xtXmba
+2022-05-13 12:38:43,090: INFO: xtXmba clicked
+2022-05-13 12:38:43,091: INFO: Searching for element by xpath //div[text()='Snacks & Beverages']
+2022-05-13 12:38:44,124: INFO: Element by xpath //div[text()='Snacks & Beverages'] found
+2022-05-13 12:38:45,978: INFO: Searching for element by xpath //a[@class ='_6WOcW9 _2-k99T']
+2022-05-13 12:38:46,011: INFO: Element by xpath //a[@class ='_6WOcW9 _2-k99T'] found
+2022-05-13 12:38:46,037: INFO: Clicking on Biscuits
+2022-05-13 12:38:46,702: INFO: Driver quitting
+2022-05-13 12:38:46,781: INFO: Driver quitted
+2022-05-13 12:39:49,930: INFO: 
+
+2022-05-13 12:39:49,934: INFO: ====== WebDriver manager ======
+2022-05-13 12:39:50,104: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 12:39:50,104: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 12:39:50,268: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 12:39:54,024: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 12:40:03,702: INFO: https://www.flipkart.com/ opened
+2022-05-13 12:40:03,705: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 12:40:03,858: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 12:40:03,884: INFO: None value changed
+2022-05-13 12:40:05,394: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 12:40:05,464: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 12:40:05,482: INFO: None value changed
+2022-05-13 12:40:05,852: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 12:40:05,932: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 12:40:05,952: INFO: Clicking on 
+2022-05-13 12:40:10,535: INFO: Searching for element by xpath //div[text() = 'Grocery']
+2022-05-13 12:40:10,556: INFO: Element by xpath //div[text() = 'Grocery'] found
+2022-05-13 12:40:10,620: INFO: Clicking on xtXmba
+2022-05-13 12:40:10,683: INFO: xtXmba clicked
+2022-05-13 12:40:10,684: INFO: Searching for element by xpath //div[text()='Snacks & Beverages']
+2022-05-13 12:40:12,523: INFO: Element by xpath //div[text()='Snacks & Beverages'] found
+2022-05-13 12:40:27,546: INFO: Searching for element by xpath //a[@class ='_6WOcW9 _2-k99T']
+2022-05-13 12:40:32,606: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class ='_6WOcW9 _2-k99T']"}
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+0   chromedriver                        0x00000001033aa2c9 chromedriver + 5120713
+1   chromedriver                        0x0000000103338e33 chromedriver + 4656691
+2   chromedriver                        0x0000000102f28158 chromedriver + 393560
+3   chromedriver                        0x0000000102f5cedd chromedriver + 610013
+4   chromedriver                        0x0000000102f5d161 chromedriver + 610657
+5   chromedriver                        0x0000000102f8f244 chromedriver + 815684
+6   chromedriver                        0x0000000102f7a4ad chromedriver + 730285
+7   chromedriver                        0x0000000102f8cf41 chromedriver + 806721
+8   chromedriver                        0x0000000102f7a373 chromedriver + 729971
+9   chromedriver                        0x0000000102f50609 chromedriver + 558601
+10  chromedriver                        0x0000000102f51635 chromedriver + 562741
+11  chromedriver                        0x000000010337cb1d chromedriver + 4934429
+12  chromedriver                        0x0000000103381295 chromedriver + 4952725
+13  chromedriver                        0x00000001033863cf chromedriver + 4973519
+14  chromedriver                        0x0000000103381cba chromedriver + 4955322
+15  chromedriver                        0x000000010335c37c chromedriver + 4801404
+16  chromedriver                        0x000000010339bc68 chromedriver + 5061736
+17  chromedriver                        0x000000010339bdef chromedriver + 5062127
+18  chromedriver                        0x00000001033b15e5 chromedriver + 5150181
+19  libsystem_pthread.dylib             0x00007ff815fa54e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff815fa0f6b thread_start + 15
+
+2022-05-13 12:40:37,918: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 12:40:37,920: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 12:40:37,945: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 12:40:37,946: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 12:40:44,812: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 12:40:44,813: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 12:40:44,825: INFO: 'WebDriver' object has no attribute 'shape'
+2022-05-13 12:40:44,826: INFO: 'WebDriver' object has no attribute '__len__'
+2022-05-13 12:41:44,303: INFO: Driver quitting
+2022-05-13 12:41:44,311: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x110190cd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/cf221279f8cb0f7ba33e5f55d60d958b
+2022-05-13 12:41:44,312: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x110191b70>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/cf221279f8cb0f7ba33e5f55d60d958b
+2022-05-13 12:41:44,313: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x110191a80>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/cf221279f8cb0f7ba33e5f55d60d958b
+2022-05-13 12:41:44,318: INFO: Driver quitted
+2022-05-13 12:41:45,856: INFO: 
+
+2022-05-13 12:41:45,856: INFO: ====== WebDriver manager ======
+2022-05-13 12:41:46,017: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 12:41:46,017: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 12:41:46,140: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 12:41:49,759: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 12:41:59,255: INFO: https://www.flipkart.com/ opened
+2022-05-13 12:41:59,257: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 12:41:59,412: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 12:41:59,447: INFO: None value changed
+2022-05-13 12:42:01,079: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 12:42:01,294: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 12:42:01,328: INFO: None value changed
+2022-05-13 12:42:01,567: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 12:42:01,633: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 12:42:01,736: INFO: Clicking on 
+2022-05-13 12:42:02,880: INFO:  clicked
+2022-05-13 12:42:02,882: INFO: Searching for element by xpath //div[text() = 'Grocery']
+2022-05-13 12:42:03,081: INFO: Element by xpath //div[text() = 'Grocery'] found
+2022-05-13 12:42:03,124: INFO: Clicking on xtXmba
+2022-05-13 12:42:04,335: INFO: Message: element click intercepted: Element <div class="xtXmba">...</div> is not clickable at point (303, 145). Other element would receive the click: <div class="_2hriZF _2rbIyg" tabindex="-1">...</div>
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+0   chromedriver                        0x00000001027672c9 chromedriver + 5120713
+1   chromedriver                        0x00000001026f5e33 chromedriver + 4656691
+2   chromedriver                        0x00000001022e5158 chromedriver + 393560
+3   chromedriver                        0x0000000102321638 chromedriver + 640568
+4   chromedriver                        0x000000010231f1b3 chromedriver + 631219
+5   chromedriver                        0x000000010231c814 chromedriver + 620564
+6   chromedriver                        0x000000010231b5b2 chromedriver + 615858
+7   chromedriver                        0x000000010230f249 chromedriver + 565833
+8   chromedriver                        0x0000000102337482 chromedriver + 730242
+9   chromedriver                        0x000000010230eb05 chromedriver + 563973
+10  chromedriver                        0x000000010233758e chromedriver + 730510
+11  chromedriver                        0x0000000102349f41 chromedriver + 806721
+12  chromedriver                        0x0000000102337373 chromedriver + 729971
+13  chromedriver                        0x000000010230d609 chromedriver + 558601
+14  chromedriver                        0x000000010230e635 chromedriver + 562741
+15  chromedriver                        0x0000000102739b1d chromedriver + 4934429
+16  chromedriver                        0x000000010273e295 chromedriver + 4952725
+17  chromedriver                        0x00000001027433cf chromedriver + 4973519
+18  chromedriver                        0x000000010273ecba chromedriver + 4955322
+19  chromedriver                        0x000000010271937c chromedriver + 4801404
+20  chromedriver                        0x0000000102758c68 chromedriver + 5061736
+21  chromedriver                        0x0000000102758def chromedriver + 5062127
+22  chromedriver                        0x000000010276e5e5 chromedriver + 5150181
+23  libsystem_pthread.dylib             0x00007ff815fa54e1 _pthread_start + 125
+24  libsystem_pthread.dylib             0x00007ff815fa0f6b thread_start + 15
+
+2022-05-13 12:42:04,535: INFO: Driver quitting
+2022-05-13 12:42:04,613: INFO: Driver quitted
+2022-05-13 12:42:20,396: INFO: 
+
+2022-05-13 12:42:20,397: INFO: ====== WebDriver manager ======
+2022-05-13 12:42:20,561: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 12:42:20,562: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 12:42:20,790: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 12:42:24,048: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 12:42:34,115: INFO: https://www.flipkart.com/ opened
+2022-05-13 12:42:34,118: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 12:42:34,278: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 12:42:34,426: INFO: None value changed
+2022-05-13 12:42:36,178: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 12:42:36,302: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 12:42:36,357: INFO: None value changed
+2022-05-13 12:42:36,883: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 12:42:37,029: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 12:42:37,156: INFO: Clicking on 
+2022-05-13 12:42:41,364: INFO: Searching for element by xpath //div[text() = 'Grocery']
+2022-05-13 12:42:41,383: INFO: Element by xpath //div[text() = 'Grocery'] found
+2022-05-13 12:42:41,397: INFO: Clicking on xtXmba
+2022-05-13 12:42:41,465: INFO: xtXmba clicked
+2022-05-13 12:42:41,466: INFO: Searching for element by xpath //div[text()='Snacks & Beverages']
+2022-05-13 12:42:43,884: INFO: Element by xpath //div[text()='Snacks & Beverages'] found
+2022-05-13 12:42:44,402: INFO: Searching for element by xpath //a[@class ='_6WOcW9 _2-k99T']
+2022-05-13 12:42:44,423: INFO: Element by xpath //a[@class ='_6WOcW9 _2-k99T'] found
+2022-05-13 12:42:44,891: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:42:44,891: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:42:44,917: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:42:44,918: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:42:49,779: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:42:49,779: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:42:49,790: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:42:49,790: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:43:00,973: INFO: Driver quitting
+2022-05-13 12:43:00,975: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10fa64d90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fb0096fd6819575961298234e009c4c9
+2022-05-13 12:43:00,976: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10fe2efe0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fb0096fd6819575961298234e009c4c9
+2022-05-13 12:43:00,977: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10fe2eda0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fb0096fd6819575961298234e009c4c9
+2022-05-13 12:43:00,979: INFO: Driver quitted
+2022-05-13 12:56:31,696: INFO: 
+
+2022-05-13 12:56:31,697: INFO: ====== WebDriver manager ======
+2022-05-13 12:56:31,863: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 12:56:31,864: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 12:56:33,202: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 12:56:36,977: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 12:56:46,107: INFO: https://www.flipkart.com/ opened
+2022-05-13 12:56:46,108: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 12:56:46,268: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 12:56:46,296: INFO: None value changed
+2022-05-13 12:56:47,830: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 12:56:48,000: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 12:56:48,009: INFO: None value changed
+2022-05-13 12:56:48,242: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 12:56:48,336: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 12:56:49,370: INFO: Searching for element by xpath //div[text() = 'Grocery']
+2022-05-13 12:56:51,897: INFO: Element by xpath //div[text() = 'Grocery'] found
+2022-05-13 12:56:51,925: INFO: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+0   chromedriver                        0x00000001029fd2c9 chromedriver + 5120713
+1   chromedriver                        0x000000010298be33 chromedriver + 4656691
+2   chromedriver                        0x000000010257b158 chromedriver + 393560
+3   chromedriver                        0x000000010257e087 chromedriver + 405639
+4   chromedriver                        0x000000010257df26 chromedriver + 405286
+5   chromedriver                        0x000000010257e1ec chromedriver + 405996
+6   chromedriver                        0x00000001025b1b4a chromedriver + 617290
+7   chromedriver                        0x00000001025a5146 chromedriver + 565574
+8   chromedriver                        0x00000001025cd482 chromedriver + 730242
+9   chromedriver                        0x00000001025a4b05 chromedriver + 563973
+10  chromedriver                        0x00000001025cd58e chromedriver + 730510
+11  chromedriver                        0x00000001025dff41 chromedriver + 806721
+12  chromedriver                        0x00000001025cd373 chromedriver + 729971
+13  chromedriver                        0x00000001025a3609 chromedriver + 558601
+14  chromedriver                        0x00000001025a4635 chromedriver + 562741
+15  chromedriver                        0x00000001029cfb1d chromedriver + 4934429
+16  chromedriver                        0x00000001029d4295 chromedriver + 4952725
+17  chromedriver                        0x00000001029d93cf chromedriver + 4973519
+18  chromedriver                        0x00000001029d4cba chromedriver + 4955322
+19  chromedriver                        0x00000001029af37c chromedriver + 4801404
+20  chromedriver                        0x00000001029eec68 chromedriver + 5061736
+21  chromedriver                        0x00000001029eedef chromedriver + 5062127
+22  chromedriver                        0x0000000102a045e5 chromedriver + 5150181
+23  libsystem_pthread.dylib             0x00007ff815fa54e1 _pthread_start + 125
+24  libsystem_pthread.dylib             0x00007ff815fa0f6b thread_start + 15
+
+2022-05-13 12:56:52,000: INFO: Driver quitting
+2022-05-13 12:56:52,076: INFO: Driver quitted
+2022-05-13 12:57:25,567: INFO: 
+
+2022-05-13 12:57:25,567: INFO: ====== WebDriver manager ======
+2022-05-13 12:57:25,755: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 12:57:25,756: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 12:57:25,911: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 12:57:29,323: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 12:57:39,203: INFO: https://www.flipkart.com/ opened
+2022-05-13 12:57:39,205: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 12:57:39,365: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 12:57:39,616: INFO: None value changed
+2022-05-13 12:57:41,314: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 12:57:41,382: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 12:57:41,392: INFO: None value changed
+2022-05-13 12:57:41,537: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 12:57:41,605: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 12:57:41,883: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:57:41,883: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:57:41,907: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:57:41,907: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:57:46,000: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:57:46,001: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:57:46,014: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:57:46,014: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:57:53,549: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:57:53,550: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:57:53,563: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:57:53,563: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:57:54,135: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:57:54,135: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:57:54,149: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:57:54,149: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:57:54,657: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:57:54,657: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:57:54,670: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:57:54,670: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:57:55,152: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:57:55,152: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:57:55,165: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:57:55,166: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:58:16,150: INFO: Driver quitting
+2022-05-13 12:58:16,152: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e410cd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e26f425a9216ad616d6bfa7295114e0a
+2022-05-13 12:58:16,152: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e743ac0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e26f425a9216ad616d6bfa7295114e0a
+2022-05-13 12:58:16,153: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e7438b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e26f425a9216ad616d6bfa7295114e0a
+2022-05-13 12:58:16,156: INFO: Driver quitted
+2022-05-13 12:58:20,963: INFO: 
+
+2022-05-13 12:58:20,963: INFO: ====== WebDriver manager ======
+2022-05-13 12:58:21,128: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 12:58:21,129: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 12:58:21,250: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 12:58:23,945: INFO: 
+
+2022-05-13 12:58:23,945: INFO: ====== WebDriver manager ======
+2022-05-13 12:58:24,103: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 12:58:24,104: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 12:58:24,237: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 12:58:24,951: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 12:58:27,231: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 12:58:36,511: INFO: https://www.flipkart.com/ opened
+2022-05-13 12:58:36,517: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 12:58:36,718: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 12:58:36,770: INFO: None value changed
+2022-05-13 12:58:38,915: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 12:58:39,156: INFO: https://www.flipkart.com/ opened
+2022-05-13 12:58:39,158: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 12:58:39,334: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 12:58:39,374: INFO: None value changed
+2022-05-13 12:58:39,436: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 12:58:39,468: INFO: None value changed
+2022-05-13 12:58:39,762: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 12:58:39,819: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 12:58:40,369: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:58:40,369: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:58:40,385: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:58:40,385: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:58:41,774: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 12:58:41,835: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 12:58:41,846: INFO: None value changed
+2022-05-13 12:58:41,982: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 12:58:42,044: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 12:58:42,230: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:58:42,230: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:58:42,244: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 12:58:42,244: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 12:59:31,207: INFO: Driver quitting
+2022-05-13 12:59:31,229: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10fe18a90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3bad9fafb9efa6d68a5951207cdf116d
+2022-05-13 12:59:31,229: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x110103d60>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3bad9fafb9efa6d68a5951207cdf116d
+2022-05-13 12:59:31,230: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x110103f70>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3bad9fafb9efa6d68a5951207cdf116d
+2022-05-13 12:59:31,233: INFO: Driver quitted
+2022-05-13 13:14:26,923: INFO: Driver quitting
+2022-05-13 13:14:26,926: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10df6caf0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/dd31a1151c4c1daff1750d5e68a1d040
+2022-05-13 13:14:26,927: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e25fd90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/dd31a1151c4c1daff1750d5e68a1d040
+2022-05-13 13:14:26,928: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e25fee0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/dd31a1151c4c1daff1750d5e68a1d040
+2022-05-13 13:14:26,931: INFO: Driver quitted
+2022-05-13 13:14:28,307: INFO: 
+
+2022-05-13 13:14:28,307: INFO: ====== WebDriver manager ======
+2022-05-13 13:14:28,467: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 13:14:28,468: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 13:14:28,855: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 13:14:34,202: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 13:14:44,361: INFO: https://www.flipkart.com/ opened
+2022-05-13 13:14:44,363: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 13:14:44,530: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 13:14:44,562: INFO: None value changed
+2022-05-13 13:14:46,025: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 13:14:46,277: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 13:14:46,302: INFO: None value changed
+2022-05-13 13:14:46,538: INFO: Searching for element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login']
+2022-05-13 13:14:46,618: INFO: Element by xpath //button[@class='_2KpZ6l _2HKlqd _3AWRsL']//span[text()='Login'] found
+2022-05-13 13:14:47,068: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 13:14:47,068: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 13:14:47,094: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 13:14:47,095: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 13:15:02,377: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 13:15:02,378: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 13:15:02,391: INFO: 'WebElement' object has no attribute 'shape'
+2022-05-13 13:15:02,391: INFO: 'WebElement' object has no attribute '__len__'
+2022-05-13 13:16:51,053: INFO: Driver quitting
+2022-05-13 13:16:51,055: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10dc04b20>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4fa9247238f9d114958a2abeb8b6bc6d
+2022-05-13 13:16:51,056: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10dff19c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4fa9247238f9d114958a2abeb8b6bc6d
+2022-05-13 13:16:51,057: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10dff09d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4fa9247238f9d114958a2abeb8b6bc6d
+2022-05-13 13:16:51,059: INFO: Driver quitted
+2022-05-13 13:16:59,595: INFO: 
+
+2022-05-13 13:16:59,595: INFO: ====== WebDriver manager ======
+2022-05-13 13:16:59,744: INFO: Current google-chrome version is 101.0.4951
+2022-05-13 13:16:59,744: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-13 13:16:59,864: INFO: Driver [/Users/jmerwin/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+2022-05-13 13:17:02,851: INFO: Navigating to https://www.flipkart.com/
+2022-05-13 13:17:12,033: INFO: https://www.flipkart.com/ opened
+2022-05-13 13:17:12,035: INFO: Searching for element by xpath //input[@class='_2IX_2- VJZDxU']
+2022-05-13 13:17:12,186: INFO: Element by xpath //input[@class='_2IX_2- VJZDxU'] found
+2022-05-13 13:17:12,212: INFO: None value changed
+2022-05-13 13:17:13,733: INFO: Searching for element by xpath //input[@type='password']
+2022-05-13 13:17:13,820: INFO: Element by xpath //input[@type='password'] found
+2022-05-13 13:17:13,841: INFO: None value changed
+2022-05-13 13:17:14,301: INFO: Driver quitting
+2022-05-13 13:17:14,389: INFO: Driver quitted

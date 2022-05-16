@@ -1,0 +1,8 @@
+{
+  "browser": "chrome",
+  "headless_mode": false,
+  "base_url": "https://www.flipkart.com/",
+  "timeout": 10,
+  "username": "9148329118",
+  "password": "Bayern@321"
+}
